@@ -1,0 +1,37 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #288a086c;
+}
+
+.quem-somos {
+    background-color:#e5e7e942;
+}
+
+.padding {
+    padding: 25px 0 20px 0;
+}
+
+.titulo-quem-somos {
+    padding-bottom: 15px;
+}
+
+.rounded-circle {
+    object-fit: cover;
+}
+
+.parceiros {
+    background-color: rgba(59, 59, 58, 0.445);
+    padding-bottom: 60px;
+}
+
+.servicos {
+    background-color: #e5e7e942;
+    padding-bottom: 25px;
+}
+.rodape {
+    background-color: #288a086c;
+    padding: 50px;
+}
